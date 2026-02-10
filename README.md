@@ -59,11 +59,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=brjulioims&locale=es&mode=daily&theme=dracula&hide_border=false&border_radius=13&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=brjulioims&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
+</p>
 
 ###
 
