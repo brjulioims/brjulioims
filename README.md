@@ -64,3 +64,9 @@
 </div>
 
 ###
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/brjulioims/brjulioims/output/snake.svg" alt="Snake animation" />
