@@ -67,6 +67,13 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brjulioims/brjulioims/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/brjulioims/brjulioims/output/snake.svg" alt="Snake animation" />
+  </picture>
+</div>
 
-<img src="https://raw.githubusercontent.com/brjulioims/brjulioims/output/snake.svg" alt="Snake animation" />
+
+
+
