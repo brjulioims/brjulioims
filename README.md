@@ -6,7 +6,7 @@
 
 <h2>
   <img src="https://media.giphy.com/media/ykZS4KGnpdlY2f7XHg/giphy.gif" width="40">
-  Hola, soy Desarrollador Web en Crecer Todos
+  Hola, soy Desarrollador Web
 </h2>
 
 ###
