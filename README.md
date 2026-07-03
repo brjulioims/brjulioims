@@ -15,7 +15,9 @@
 
 ###
 
-<p align="left">Soy Desarrollador Web enfocado en la creación y mantenimiento de software interno para la empresa, desarrollando soluciones digitales que optimizan procesos, mejoran la eficiencia y aportan valor real a los equipos de trabajo.<br>Trabajo con un enfoque en código limpio, seguridad y escalabilidad, adaptando cada sistema a las necesidades específicas de la organización.<br><br>⚡ Soluciones internas pensadas para crecer.<br><br>🧠 Software interno que impulsa la productividad.<br><br>🔧 Herramientas digitales creadas a la medida de la empresa.<br><br>🚀 Desarrollo interno enfocado en eficiencia y resultados.</p>
+<p align="left">Soy Desarrollador Web apasionado por construir aplicaciones modernas, seguras y escalables. Me especializo en desarrollar soluciones que simplifican procesos, mejoran la experiencia de los usuarios y generan valor mediante la tecnología. <br><br>
+Mi enfoque combina arquitectura de software, código limpio y buenas prácticas de desarrollo, creando aplicaciones fáciles de mantener, eficientes y preparadas para crecer con las necesidades de cada proyecto.
+<br><br>⚡ Desarrollo de aplicaciones web modernas.<br><br>🧠 Soluciones escalables y orientadas al negocio<br><br>🔧 Código limpio, arquitectura sólida y seguridad.<br><br>🚀 Tecnología que transforma ideas en resultados.</p>
 
 ###
 
